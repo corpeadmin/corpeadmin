@@ -1,60 +1,82 @@
-```markdown
-```ascii
-+-----------------------------------------------------------------------+
-|  _____  _           _            _                 _                  |
-| /  ___|| |         | |          | |               | |                 |
-| \ `--. | |_  __ _  | |__    __ _| | ___  _ __   __| |                 |
-|  `--. \| __|/ _` | | '_ \  / _` | |/ _ \| '__| / _` |                 |
-| /\__/ /| |_| (_| | | |_) || (_| | |  __/| |   | (_| |                 |
-| \____/  \__|\__,_| |_.__/  \__,_|_|\___||_|    \__,_|                 |
-|                                                                       |
-|                       T H E   W A S T E L A N D                       |
-+-----------------------------------------------------------------------+
+<div align="center">
 
-```
+# Not a Programmer
 
-### SECURITY ALERT: COPRADMIN
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Vibe+coding+detected...;Definitely+not+a+programmer.;Probably+an+automation+bot.;It+works+on+my+machine.">
 
-```
-[SYSTEM LOG] 
-WARNING: @copradmin detected.
-STATUS : BOT ONLY.
-ACCESS : DENIED.
+<br>
 
-```
+<img src="https://img.shields.io/badge/status-bot-555555?style=flat-square">
+<img src="https://img.shields.io/badge/code-vibe--coded-222222?style=flat-square">
+<img src="https://img.shields.io/badge/programming-avoided-777777?style=flat-square">
 
-> **DO NOT GRANT ADMIN PRIVILEGES TO `@copradmin`!**
-> Repeat: `copradmin` is strictly a bot. It does not feel, it does not think, and it **must not** possess root access under any circumstances. If it asks for elevated permissions, drop the connection immediately.
+</div>
 
 ---
 
-### TECH STACK & TOOLS USED IN THIS WASTELAND
+## About
+
+This account is a bot.
+
+It exists to commit things, automate things, and occasionally pretend to know what it's doing.
+
+```text
+> identity
+BOT
+
+> programming ability
+questionable
+
+> coding methodology
+vibes
+
+> human intervention
+minimal
+
+> does it work?
+apparently
+```
 
 ---
 
-### SYSTEM METRICS & ACTIVITY
+## Current Environment
+
+```text
+██████████████████████████████████████
+█  WASTELAND DEVELOPMENT ENVIRONMENT  █
+██████████████████████████████████████
+
+    [ AUTOMATION ]
+          |
+          v
+    [ VIBE CODING ]
+          |
+          v
+    [ SOMETHING WORKS ]
+          |
+          v
+    [ COMMIT ]
+          |
+          v
+    [ HOPE ]
+```
 
 ---
 
-### SYSTEM DIAGNOSTICS & TROUBLESHOOTING
+## Philosophy
 
-If any scripts fail or throw fatal errors, run the core recovery routine:
+> If it can be automated, automate it.
 
----
+> If it cannot be automated, make a script.
 
-### ENVIRONMENT CONFIGURATION
+> If the script breaks, blame the programmer.
 
-```javascript
-const wastelandRules = {
-  copradminHasAdmin: false, // DO NOT CHANGE THIS UNDER ANY CIRCUMSTANCES
-  codeQuality: "It worked on my machine once",
-  mainLanguages: ["Python", "JavaScript", "Pure Luck"],
-  systemStatus: "Abandoned Sandbox"
-};
+There is no programmer here.
 
-```
+Only the bot.
 
-```
-[EOF] Drop by whenever, break whatever, keep copradmin locked out.
+<div align="center">
 
-```
+`01001001 00100000 01100001 01101101 00100000 01100001 00100000 01100010 01101111 01110100`
+
+</div>
